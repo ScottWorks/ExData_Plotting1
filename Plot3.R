@@ -22,7 +22,7 @@ plot.new()
 # Set window size
 plot.window(c(0, 480), c(0, 480))
 # Open PNG device
-png(file = "Plot4.png")
+png(file = "Plot3.png")
 # Create Line Graph
 len.x1 <- length(head.X1$Global_active_power)
 index.vec <- seq(1, len.x1, 1)

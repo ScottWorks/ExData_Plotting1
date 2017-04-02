@@ -22,7 +22,7 @@ plot.new()
 # Set window size
 plot.window(c(0, 480), c(0, 480))
 # Open PNG device
-png(file = "Plot6.png")
+png(file = "Plot4.png")
 
 # Create 2 by 2 vector for plots
 par(mfrow = c(2,2))
